@@ -1,0 +1,11 @@
+<resources>
+    <string name="search">Search</string>
+    <string name="refresh">Refresh</string>
+    <string name="stop">Stop</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="profile">Profile</string>
+    <string name="exit">Exit</string>
+    <string name="_0_00">0:00</string>
+</resources>
